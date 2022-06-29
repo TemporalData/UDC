@@ -1,0 +1,3 @@
+[submodule "Embeddings/SimCSE"]
+	path = Embeddings/SimCSE
+	url = https://github.com/princeton-nlp/SimCSE
