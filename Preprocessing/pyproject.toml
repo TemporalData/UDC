@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "preprocessing"
+version = "0.1.0"
+description = "Use this to process text data into correct format to create embeddings from"
+authors = ["TemporalData"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.23.0"
+pandas = "^1.4.3"
+openpyxl = "^3.0.10"
+matplotlib = "^3.5.2"
+jupyter = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
