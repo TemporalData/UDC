@@ -10,4 +10,4 @@ Be sure to install pytorch before running "pip -r requirements.txt"
 
 # Word2Vec
 
-This directory contains an implementation that produces word2vec embeddings for the text data stored in *./data/...*
+This directory contains an implementation that produces word2vec embeddings for the text data stored in */word2vec/data/*
