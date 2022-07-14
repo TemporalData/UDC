@@ -6,6 +6,11 @@ authors = ["TemporalData <63362559+TemporalData@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+numpy = "^1.23.1"
+gensim = "^4.2.0"
+jupyter = "^1.0.0"
+tqdm = "^4.64.0"
+pandas = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
 
