@@ -13,3 +13,12 @@ It also was were data cleaning was performed, *clean_dental_data.py* is based on
 
 This python file cleans the data retrieved from dentists.
 It exists so the research can be reproduced.
+
+## extract_text_sts.ipynb
+
+*Requires the following to be present in ./data/input/*
+sts-train.csv
+sts-test.csv
+
+Will tokenize and filter the data for the later stages and export those to .txt and .csv files at *./data/output/*
+
