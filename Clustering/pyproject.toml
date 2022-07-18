@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "clustering"
+version = "0.1.0"
+description = "Clustering text embeddings"
+authors = ["TemporalData <63362559+TemporalData@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.23.1"
+pandas = "^1.4.3"
+jupyter = "^1.0.0"
+scikit-learn = "^1.1.1"
+tqdm = "^4.64.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
