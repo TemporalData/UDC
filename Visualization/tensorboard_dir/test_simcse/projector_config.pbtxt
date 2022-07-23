@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "Dental SimCSE embeddings"
+  metadata_path: "data/test123_labels.tsv"
+  tensor_path: "data/Q28_test_vectors.tsv"
+}

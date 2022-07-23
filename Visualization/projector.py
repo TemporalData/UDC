@@ -11,5 +11,6 @@ labels = pd.read_csv('data/input/test_labels.tsv', sep='\t')
 # 
 writer = SummaryWriter()
 writer.add_embedding(np.array(vectors),np.array(labels).tolist())
+writer.add_embedding("data/vectors.tsv","data/labels.tsv")
 writer.close()
 

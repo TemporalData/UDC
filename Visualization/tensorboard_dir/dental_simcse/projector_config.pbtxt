@@ -8,3 +8,8 @@ embeddings {
   metadata_path: "data/test/test2_labels.tsv"
   tensor_path: "data/model_simcse_data_dental_vectors.tsv"
 }
+embeddings {
+  tensor_name: "Q28_test_vectors"
+  metadata_path: "data/test123_labels.tsv"
+  tensor_path: "data/Q28_test_vectors.tsv"
+}
