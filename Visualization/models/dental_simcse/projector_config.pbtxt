@@ -1,0 +1,155 @@
+embeddings {
+  tensor_name: "A. Top 3 questions"
+  metadata_path: "data/A. Top 3 questions/top3_metadata.tsv"
+  tensor_path: "data/A. Top 3 questions/patient_vis_vectors_all.tsv"
+}
+embeddings {
+  tensor_name: "B. All Responses"
+  metadata_path: "data/B. All Responses/all_sentences_metadata.tsv"
+  tensor_path: "data/B. All Responses/model_simcse_data_dental_vectors_all.tsv"
+}
+embeddings {
+  tensor_name: "Q 1: Chief complaint"
+  metadata_path: "data/questions/Q0_labels.tsv"
+  tensor_path: "data/questions/Q0_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 2: Expected result"
+  metadata_path: "data/questions/Q1_labels.tsv"
+  tensor_path: "data/questions/Q1_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 3: Aggravating factors"
+  metadata_path: "data/questions/Q2_labels.tsv"
+  tensor_path: "data/questions/Q2_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 4: Stops you from"
+  metadata_path: "data/questions/Q3_labels.tsv"
+  tensor_path: "data/questions/Q3_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 5: Allieviates complaints"
+  metadata_path: "data/questions/Q4_labels.tsv"
+  tensor_path: "data/questions/Q4_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 6: Eating habits"
+  metadata_path: "data/questions/Q5_labels.tsv"
+  tensor_path: "data/questions/Q5_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 7: Diagnosis"
+  metadata_path: "data/questions/Q6_labels.tsv"
+  tensor_path: "data/questions/Q6_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 8: Personal diagnosis"
+  metadata_path: "data/questions/Q7_labels.tsv"
+  tensor_path: "data/questions/Q7_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q 9: Complaint attacks triggered by"
+  metadata_path: "data/questions/Q8_labels.tsv"
+  tensor_path: "data/questions/Q8_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q10: Bothersome life events"
+  metadata_path: "data/questions/Q9_labels.tsv"
+  tensor_path: "data/questions/Q9_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q11: After which treatment"
+  metadata_path: "data/questions/Q10_labels.tsv"
+  tensor_path: "data/questions/Q10_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q12: Pain remarks about head or face"
+  metadata_path: "data/questions/Q11_labels.tsv"
+  tensor_path: "data/questions/Q11_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q13: Allergies"
+  metadata_path: "data/questions/Q12_labels.tsv"
+  tensor_path: "data/questions/Q12_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q14: Pain remarks about body"
+  metadata_path: "data/questions/Q13_labels.tsv"
+  tensor_path: "data/questions/Q13_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q15: Other problems"
+  metadata_path: "data/questions/Q14_labels.tsv"
+  tensor_path: "data/questions/Q14_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q16: Tell us anything else"
+  metadata_path: "data/questions/Q15_labels.tsv"
+  tensor_path: "data/questions/Q15_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q17: How chief complaint started"
+  metadata_path: "data/questions/Q16_labels.tsv"
+  tensor_path: "data/questions/Q16_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q18: Other quality of chief complaint"
+  metadata_path: "data/questions/Q17_labels.tsv"
+  tensor_path: "data/questions/Q17_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q19: Which other treatment"
+  metadata_path: "data/questions/Q18_labels.tsv"
+  tensor_path: "data/questions/Q18_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q20: I suffer from"
+  metadata_path: "data/questions/Q19_labels.tsv"
+  tensor_path: "data/questions/Q19_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q21: Other mouth/jaw related habits"
+  metadata_path: "data/questions/Q20_labels.tsv"
+  tensor_path: "data/questions/Q20_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q22: After which accident"
+  metadata_path: "data/questions/Q21_labels.tsv"
+  tensor_path: "data/questions/Q21_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q23: Other quality at onset of illness"
+  metadata_path: "data/questions/Q22_labels.tsv"
+  tensor_path: "data/questions/Q22_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q24: After which illness"
+  metadata_path: "data/questions/Q23_labels.tsv"
+  tensor_path: "data/questions/Q23_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q25: After which emotional stress"
+  metadata_path: "data/questions/Q24_labels.tsv"
+  tensor_path: "data/questions/Q24_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q26: Pain remarks about torso"
+  metadata_path: "data/questions/Q25_labels.tsv"
+  tensor_path: "data/questions/Q25_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q27: Other performed treatments"
+  metadata_path: "data/questions/Q26_labels.tsv"
+  tensor_path: "data/questions/Q26_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q28: After which operation"
+  metadata_path: "data/questions/Q27_labels.tsv"
+  tensor_path: "data/questions/Q27_vectors.tsv"
+}
+embeddings {
+  tensor_name: "Q29: After which physical stress"
+  metadata_path: "data/questions/Q28_labels.tsv"
+  tensor_path: "data/questions/Q28_vectors.tsv"
+}

@@ -1,15 +1,5 @@
 embeddings {
-  tensor_name: "Dental SimCSE embeddings"
-  metadata_path: "data/test/test2_labels.tsv"
-  tensor_path: "data/model_simcse_data_dental_vectors.tsv"
-}
-embeddings {
-  tensor_name: "TEST Dental SimCSE embeddings"
-  metadata_path: "data/test/test2_labels.tsv"
-  tensor_path: "data/model_simcse_data_dental_vectors.tsv"
-}
-embeddings {
-  tensor_name: "Q28_test_vectors"
-  metadata_path: "data/test123_labels.tsv"
-  tensor_path: "data/Q28_test_vectors.tsv"
+  tensor_name: "Patient_vectors"
+  metadata_path: "data/patient_vis_labels.tsv"
+  tensor_path: "data/patient_vis_vectors_all.tsv"
 }
