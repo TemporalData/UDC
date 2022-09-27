@@ -34,9 +34,11 @@ The one exception is the simcse generation, for that virtual environment use pip
 
 Set the python version to 3.9.13 using poetry.
 
-Go to the directory of choice
+Go to the directory of choice,
 
-run *"poetry install"*
+Run *poetry install*
+
+Then run `poetry shell` and open a jupyter notebook or run the *.py* scripts.
 
 ## Dependencies
 
