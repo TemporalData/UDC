@@ -1,8 +1,6 @@
 # Unsupervised Document Clustering - Master Thesis
 
-This is the master thesis of Kevin Steijn
-
-# Abstract
+## Abstract
 
 The aim of this paper is to discover a method of finding semantically similar clusters
 from a text dataset in an unsupervised manner. An existing semantic text similarity
