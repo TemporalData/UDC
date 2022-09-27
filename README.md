@@ -29,14 +29,14 @@ data. Resulting in visualizations that allow for exploration of the proposed clu
 	
 ## Download and Usage
 
-All the code uses poetry[https://python-poetry.org/docs/] for the virtual environments.
+All the code uses [poetry](https://python-poetry.org/docs/) for the virtual environments.
 The one exception is the simcse generation, for that virtual environment use pip.
 
 Set the python version to 3.9.13 using poetry.
 
 Go to the directory of choice,
 
-Run *poetry install*
+Run `poetry install`
 
 Then run `poetry shell` and open a jupyter notebook or run the *.py* scripts.
 
