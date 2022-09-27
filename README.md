@@ -15,11 +15,11 @@ data. Resulting in visualizations that allow for exploration of the proposed clu
 ## Structure of Project
 
     .
-    ├── Clustering              # Code used for clustering
-    ├── Embeddings	            # Code for generating the embeddings
+    ├── Clustering                  # Code used for clustering
+    ├── Embeddings	                # Code for generating the embeddings
 	│   ├── SimCSE	                # The official SimCSE repository
-	│   ├── simcse_generation	    # Scripts used to train the simcse model
-	│   └── word2vec	            # Scripts used to train the word2vec model
+	│   ├── simcse_generation	   # Scripts used to train the simcse model
+	│   └── word2vec	           # Scripts used to train the word2vec model
 	├── Preprocessing	        # Extracting relevant data from the raw files
 	│   └── visualization	            # Charts used in the report
 	├── Visualization	        # Contains code for visualizing the embeddings
