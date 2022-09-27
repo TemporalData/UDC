@@ -12,7 +12,7 @@ during this process this work can utilize the pre-trained models of previous res
 and retain their performance. These techniques will be applied to dental patient
 data. Resulting in visualizations that allow for exploration of the proposed clusters.
 
-# Structure of Project
+## Structure of Project
 
     .
     ├── Clustering  # 
