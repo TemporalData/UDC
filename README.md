@@ -17,7 +17,7 @@ data. Resulting in visualizations that allow for exploration of the proposed clu
     .
     ├── Clustering                  # Code used for clustering
     ├── Embeddings	                # Code for generating the embeddings
-	│   ├── SimCSE	                    # The official SimCSE repository
+	│   ├── SimCSE	                   # The official SimCSE repository
 	│   ├── simcse_generation	   # Scripts used to train the simcse model
 	│   └── word2vec	           # Scripts used to train the word2vec model
 	├── Preprocessing	        # Extracting relevant data from the raw files
